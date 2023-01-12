@@ -8,14 +8,14 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Gosto bastante de HARRY POTTER 👓🧙‍♂️
 
-##
+<!-- ##
 
 <div align="center">
   <a href="https://github.com/thaliabma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaliabma&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliabma&layout=compact&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
-
+ -->
 ##
 
 <div style="display: inline_block"><br>
