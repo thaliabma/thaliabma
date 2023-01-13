@@ -6,7 +6,7 @@
 - 🌱 Aprendendo React
 - 📫 Pode me contatar com o e-mail: tbma@ic.ufal.br
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Gosto bastante de HARRY POTTER 👓🧙‍♂️
+- ⚡ Fun fact: AMO HARRY POTTER 👓🧙‍♂️
 
 <!-- ##
 
