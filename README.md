@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Me aventurando no React e NodeJs
-- 🌱 Aprendendo React
+- 🌱 Aprendendo Back-end com JavaScript
 - 📫 Pode me contatar com o e-mail: tbma@ic.ufal.br
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: AMO HARRY POTTER 👓🧙‍♂️
