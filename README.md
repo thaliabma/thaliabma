@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Atualmente trabalhando com Front-end
+- 🔭 Me aventurando no React e NodeJs
 - 🌱 Aprendendo React
 - 📫 Pode me contatar com o e-mail: tbma@ic.ufal.br
 - 😄 Pronouns: ela/dela
