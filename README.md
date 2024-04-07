@@ -1,12 +1,12 @@
-### Hey! Sou Thalia Barbosa, prazer 👋
+### Hey! I'm Thalia Almeida, welcome 👋
 
 ##
 
-- 🔭 Me aventurando no React e NodeJs
-- 🌱 Aprendendo Back-end com JavaScript
-- 📫 Pode me contatar com o e-mail: tbma@ic.ufal.br
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: AMO HARRY POTTER 👓🧙‍♂️
+🔭 Venturing into React and Node.js
+🌱 Learning Back-end with JavaScript
+📫 You can contact me via email: tbma@ic.ufal.br
+😄 Pronouns: she/her
+⚡ Fun fact: I LOVE HARRY POTTER 👓🧙‍♂️
 
 <!-- ##
 
